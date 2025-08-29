@@ -1,0 +1,15 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(250, 235, 215, 0.696);
+
+}
+main
+{
+    min-height: calc(100vh - 13.5vh);
+}
+.btn{
+    background-color: black;
+    color:yellow;
+}
